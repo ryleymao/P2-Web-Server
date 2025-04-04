@@ -1,5 +1,5 @@
 # ryleymao-web-server
-Project 2 - Web Server
+Project 2: Web Server
 
 This project is a lightweight web-based chat server implemented in C. It simulates the core functionality of a group messaging app (like Slack or Discord) but operates entirely over HTTP using low-level system calls, without the use of any external frameworks or libraries. The main goal of this project is to build a deeper understanding of how web servers work at the systems level—specifically, how HTTP requests are received, parsed, and responded to using socket programming in C. It also highlights how dynamic data (like chat messages and user reactions) can be managed manually in memory.
 
