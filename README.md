@@ -1,7 +1,7 @@
 # ryleymao-pa3-web-server
 Project imported from my school github account
 
-PA3 Resubmission - Web Server
+Project 3 - Web Server
 
 Resubmission Due 10:10pm Wednesday, December 4, 2024
 Github Classroom Assignment: https://classroom.github.com/a/hlq9KJbK
